@@ -1,0 +1,12 @@
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
